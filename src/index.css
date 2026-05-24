@@ -8,7 +8,9 @@
   --color-bc-card: #181c22;       /* Fundo de cards/grimórios */
   --color-bc-gold: #d4af37;       /* Ouro real (Detalhes das roupas, realeza e magia) */
   --color-bc-gold-hover: #f3cf5d; /* Ouro brilhando (Efeito hover) */
-  --color-bc-anti: #8b0000;       /* Vermelho Antimagia/Demônio do Asta */
+  --color-bc-anti: #ff0000;       /* Vermelho puro vibrante (Anti-magia ativa) */
+  --color-bc-anti-dark: #450a0a;  /* Vermelho sangue seco para gradientes */
+  --color-bc-glow: rgba(255, 0, 0, 0.5); /* Sombra de brilho vermelho */
   --color-bc-clover: #1b4d3e;     /* Verde Trevo profundo */
   --color-bc-text: #e2e8f0;       /* Texto claro principal */
 
